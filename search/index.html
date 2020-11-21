@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 
 <head>
-	<meta charset="UTF-8" />
+    <meta charset="UTF-8" />
 <title>idea</title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -19,11 +19,15 @@
 <script>
     hljs.initHighlightingOnLoad();
 </script>
+    <script src="/media/search/fuse.js"></script>
+    <script src="/media/search/ejs.min.js"></script>
+    <script src="/media/search/gridea-search.js"></script>
+    <script src="/media/search/result.ejs" type="text/ejs"></script>
 </head>
 
 <body>
-	<div class="layout theme-dark">
-		<div class="layout-header">
+    <div class="layout theme-dark">
+        <div class="layout-header">
 
 	<div class="layout-header-main">
 		<div class="container">
@@ -103,7 +107,7 @@
 	</div>
 
 </div>
-		<div class="layout-collapse d-md-none">
+        <div class="layout-collapse d-md-none">
 	<div class="layout-collapse-main">
 		<ul class="layout-collapse-list">
 			
@@ -120,69 +124,39 @@
 	</div>
 </div>
 
-		<div class="layout-content">
-			<div class="layout-content-main">
-				<div class="container">
-					<div class="row justify-content-lg-center">
-						<div class="col-12 col-lg-9">
-							<div class="layout-archive">
-								
-								
+        <div class="layout-content">
+            <div class="layout-content-main">
+                <div class="container">
+                    <div class="row justify-content-lg-center">
+                        <div class="col-12 col-lg-9">
+                            <div id="gridea-search-result" class="layout-archive">
 
-								<div class="card">
-									<div class="card-header">
-										<div class="header-content">
-											<div class="title">2020</div>
-										</div>
+                                <div class="card searching">
+                                    <div class="card-header">
+                                        <div class="header-content">
+                                            <div class="title">搜索中......</div>
+                                        </div>
+                                    </div>
+                                </div>
 
-									</div>
-									<div class="card-body">
-										
-										
-										<div class="card-item">
-											<div class="thumb">
-												
-												<a href="https://hcold.github.io/post/shang-rao-shou-fu-de-di-chan-meng-yi-ji-ta-de-shang-ye-di-guo/"
-													style="background-image: url('https://hcold.github.io/images/avatar.png')"></a>
-												
-											</div>
-											<div class="list-content">
-												<div class="list-body">
-													<a class="title" href="https://hcold.github.io/post/shang-rao-shou-fu-de-di-chan-meng-yi-ji-ta-de-shang-ye-di-guo/">上饶首富的地产梦以及他的商业帝国</a>
-													<div class="time">2020-11-21</div>
-												</div>
-											</div>
-										</div>
-										
-										
-									</div>
-								</div>
-								
-							</div>
+                                <div class="card no-result" style="display:none">
+                                    <div class="card-header">
+                                        <div class="header-content">
+                                            <div class="title">未搜索到相关文章</div>
+                                        </div>
+                                    </div>
+                                </div>
 
-							<div class="layout-paginator">
-								<div class="paginator row">
-									<div class="col-6">
-										
-										<a class="btn disabled btn-paginator width-100">上一页</a>
-										
-									</div>
-									<div class="col-6">
-										
-										<a class="btn disabled btn-paginator width-100">下一页</a>
-										
-									</div>
-								</div>
-							</div>
+                            </div>
 
-						</div>
-					</div>
+                        </div>
+                    </div>
 
-				</div>
-			</div>
-		</div>
+                </div>
+            </div>
+        </div>
 
-			<div class="layout-footer">
+        	<div class="layout-footer">
 
 		<div class="container">
 			<div class="row justify-content-lg-center">
@@ -230,7 +204,7 @@
 
 	<script type="text/javascript" src='https://hcold.github.io/media/scripts/main.js'></script>
 	
-	</div>
+    </div>
 </body>
 
 </html>
