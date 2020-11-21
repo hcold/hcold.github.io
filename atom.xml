@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hcold.github.io</id>
     <title>Gridea</title>
-    <updated>2020-11-21T11:27:57.948Z</updated>
+    <updated>2020-11-21T11:34:18.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hcold.github.io"/>
     <link rel="self" href="https://hcold.github.io/atom.xml"/>
@@ -11,16 +11,10 @@
     <icon>https://hcold.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://hcold.github.io/post/hello-gridea/</id>
-        <link href="https://hcold.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[上饶首富的地产梦以及他的商业帝国]]></title>
+        <id>https://hcold.github.io/post/shang-rao-shou-fu-de-di-chan-meng-yi-ji-ta-de-shang-ye-di-guo/</id>
+        <link href="https://hcold.github.io/post/shang-rao-shou-fu-de-di-chan-meng-yi-ji-ta-de-shang-ye-di-guo/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
+        <updated>2020-11-21T11:29:16.000Z</updated>
     </entry>
 </feed>
