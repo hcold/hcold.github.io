@@ -2,13 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hcold.github.io</id>
     <title>idea</title>
-    <updated>2020-11-24T09:31:53.223Z</updated>
+    <updated>2020-11-25T07:41:57.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hcold.github.io"/>
     <link rel="self" href="https://hcold.github.io/atom.xml"/>
     <logo>https://hcold.github.io/images/avatar.png</logo>
     <icon>https://hcold.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, idea</rights>
+    <entry>
+        <title type="html"><![CDATA[南昌远东地产浮沉录]]></title>
+        <id>https://hcold.github.io/post/t5hi7hXrn/</id>
+        <link href="https://hcold.github.io/post/t5hi7hXrn/">
+        </link>
+        <updated>2020-11-26T07:22:08.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南昌伪“红谷滩城投”之联泰地产往事]]></title>
+        <id>https://hcold.github.io/post/SXwMuPCrw/</id>
+        <link href="https://hcold.github.io/post/SXwMuPCrw/">
+        </link>
+        <updated>2020-11-25T07:36:26.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南昌第一高楼往事]]></title>
+        <id>https://hcold.github.io/post/a6Vij_c7W/</id>
+        <link href="https://hcold.github.io/post/a6Vij_c7W/">
+        </link>
+        <updated>2020-11-25T07:28:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江西东投地产往事]]></title>
+        <id>https://hcold.github.io/post/ft_HYmPMy/</id>
+        <link href="https://hcold.github.io/post/ft_HYmPMy/">
+        </link>
+        <updated>2020-11-25T07:25:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江西洪城大厦和地产的往事]]></title>
+        <id>https://hcold.github.io/post/1xYq1M7qX/</id>
+        <link href="https://hcold.github.io/post/1xYq1M7qX/">
+        </link>
+        <updated>2020-11-25T07:15:07.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[发迹于江西的正荣地产黑与白]]></title>
         <id>https://hcold.github.io/post/NtQLM9hXc/</id>
@@ -52,10 +87,24 @@
         <updated>2020-11-23T07:39:43.000Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[一名多年南昌地产从业者的自白]]></title>
+        <id>https://hcold.github.io/post/EvMEctKyM/</id>
+        <link href="https://hcold.github.io/post/EvMEctKyM/">
+        </link>
+        <updated>2020-11-22T07:20:10.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[上饶首富的地产梦以及他的商业帝国]]></title>
         <id>https://hcold.github.io/post/shangrao/</id>
         <link href="https://hcold.github.io/post/shangrao/">
         </link>
         <updated>2020-11-21T11:29:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南昌一家高位权地产的往事]]></title>
+        <id>https://hcold.github.io/post/loeSOqFiI/</id>
+        <link href="https://hcold.github.io/post/loeSOqFiI/">
+        </link>
+        <updated>2020-11-20T07:18:20.000Z</updated>
     </entry>
 </feed>
