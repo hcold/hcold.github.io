@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hcold.github.io</id>
     <title>idea</title>
-    <updated>2020-12-01T01:31:16.824Z</updated>
+    <updated>2020-12-18T06:19:04.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hcold.github.io"/>
     <link rel="self" href="https://hcold.github.io/atom.xml"/>
     <logo>https://hcold.github.io/images/avatar.png</logo>
     <icon>https://hcold.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, idea</rights>
+    <entry>
+        <title type="html"><![CDATA[一场重组，十年困苦]]></title>
+        <id>https://hcold.github.io/post/nKD5UNdJc/</id>
+        <link href="https://hcold.github.io/post/nKD5UNdJc/">
+        </link>
+        <updated>2020-12-18T06:16:33.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一颗“钻石”的陨落]]></title>
+        <id>https://hcold.github.io/post/S1Y4EHsEB/</id>
+        <link href="https://hcold.github.io/post/S1Y4EHsEB/">
+        </link>
+        <updated>2020-12-18T06:14:31.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北京金融街征战南昌败北始末]]></title>
         <id>https://hcold.github.io/post/uB7ke5iwS/</id>
@@ -99,19 +113,5 @@
         <link href="https://hcold.github.io/post/SXwMuPCrw/">
         </link>
         <updated>2020-11-25T07:36:26.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南昌第一高楼往事]]></title>
-        <id>https://hcold.github.io/post/a6Vij_c7W/</id>
-        <link href="https://hcold.github.io/post/a6Vij_c7W/">
-        </link>
-        <updated>2020-11-25T07:28:17.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[江西东投地产往事]]></title>
-        <id>https://hcold.github.io/post/ft_HYmPMy/</id>
-        <link href="https://hcold.github.io/post/ft_HYmPMy/">
-        </link>
-        <updated>2020-11-25T07:25:53.000Z</updated>
     </entry>
 </feed>
