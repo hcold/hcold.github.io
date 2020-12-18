@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hcold.github.io</id>
     <title>idea</title>
-    <updated>2020-12-18T06:19:55.899Z</updated>
+    <updated>2020-12-18T06:24:00.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hcold.github.io"/>
     <link rel="self" href="https://hcold.github.io/atom.xml"/>
@@ -15,6 +15,13 @@
         <link href="https://hcold.github.io/post/S1Y4EHsEB/">
         </link>
         <updated>2020-12-18T06:14:31.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江西首富的几次并购和地产开发]]></title>
+        <id>https://hcold.github.io/post/_NoZzwJGs/</id>
+        <link href="https://hcold.github.io/post/_NoZzwJGs/">
+        </link>
+        <updated>2020-12-15T06:22:33.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[一场重组，十年困苦]]></title>
@@ -106,12 +113,5 @@
         <link href="https://hcold.github.io/post/t5hi7hXrn/">
         </link>
         <updated>2020-11-26T07:22:08.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南昌伪“红谷滩城投”之联泰地产往事]]></title>
-        <id>https://hcold.github.io/post/SXwMuPCrw/</id>
-        <link href="https://hcold.github.io/post/SXwMuPCrw/">
-        </link>
-        <updated>2020-11-25T07:36:26.000Z</updated>
     </entry>
 </feed>
