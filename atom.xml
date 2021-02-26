@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hcold.github.io</id>
     <title>idea</title>
-    <updated>2021-02-12T14:24:21.840Z</updated>
+    <updated>2021-02-26T09:36:49.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hcold.github.io"/>
     <link rel="self" href="https://hcold.github.io/atom.xml"/>
     <logo>https://hcold.github.io/images/avatar.png</logo>
     <icon>https://hcold.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, idea</rights>
+    <entry>
+        <title type="html"><![CDATA[煌上的地产]]></title>
+        <id>https://hcold.github.io/post/KljwWGUlV/</id>
+        <link href="https://hcold.github.io/post/KljwWGUlV/">
+        </link>
+        <updated>2021-02-26T09:36:12.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再见，庚子年；你好，辛丑年！]]></title>
         <id>https://hcold.github.io/post/RIBXwFSvu/</id>
@@ -106,12 +113,5 @@
         <link href="https://hcold.github.io/post/en3BytS7b/">
         </link>
         <updated>2020-12-01T01:17:50.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南昌万达地产浮沉录]]></title>
-        <id>https://hcold.github.io/post/kULYni3sP/</id>
-        <link href="https://hcold.github.io/post/kULYni3sP/">
-        </link>
-        <updated>2020-12-01T01:16:41.000Z</updated>
     </entry>
 </feed>
