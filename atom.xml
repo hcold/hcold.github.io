@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hcold.github.io</id>
     <title>idea</title>
-    <updated>2021-04-25T11:29:05.415Z</updated>
+    <updated>2021-05-15T10:49:48.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hcold.github.io"/>
     <link rel="self" href="https://hcold.github.io/atom.xml"/>
     <logo>https://hcold.github.io/images/avatar.png</logo>
     <icon>https://hcold.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, idea</rights>
+    <entry>
+        <title type="html"><![CDATA[一个木匠的地产江湖]]></title>
+        <id>https://hcold.github.io/post/u0n-CucXj/</id>
+        <link href="https://hcold.github.io/post/u0n-CucXj/">
+        </link>
+        <updated>2021-05-15T10:42:48.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面具下的大唐]]></title>
         <id>https://hcold.github.io/post/vkgLcUhah/</id>
@@ -106,12 +113,5 @@
         <link href="https://hcold.github.io/post/V6e1pyahH/">
         </link>
         <updated>2020-12-01T01:22:02.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南昌王府井广场往事]]></title>
-        <id>https://hcold.github.io/post/gVNMGblZe/</id>
-        <link href="https://hcold.github.io/post/gVNMGblZe/">
-        </link>
-        <updated>2020-12-01T01:20:37.000Z</updated>
     </entry>
 </feed>
