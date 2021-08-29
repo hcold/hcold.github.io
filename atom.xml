@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hcold.github.io</id>
     <title>idea</title>
-    <updated>2021-05-15T10:57:01.793Z</updated>
+    <updated>2021-08-29T08:21:52.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hcold.github.io"/>
     <link rel="self" href="https://hcold.github.io/atom.xml"/>
     <logo>https://hcold.github.io/images/avatar.png</logo>
     <icon>https://hcold.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, idea</rights>
+    <entry>
+        <title type="html"><![CDATA[一个司机的地产浮沉录]]></title>
+        <id>https://hcold.github.io/post/CwMArnQyn/</id>
+        <link href="https://hcold.github.io/post/CwMArnQyn/">
+        </link>
+        <updated>2021-08-29T08:20:25.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个木匠的地产江湖]]></title>
         <id>https://hcold.github.io/post/u0n-CucXj/</id>
@@ -106,12 +113,5 @@
         <link href="https://hcold.github.io/post/kjRGUqQmv/">
         </link>
         <updated>2020-12-01T01:26:19.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[格林兰往事]]></title>
-        <id>https://hcold.github.io/post/V6e1pyahH/</id>
-        <link href="https://hcold.github.io/post/V6e1pyahH/">
-        </link>
-        <updated>2020-12-01T01:22:02.000Z</updated>
     </entry>
 </feed>
